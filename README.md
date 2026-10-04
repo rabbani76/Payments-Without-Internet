@@ -36,7 +36,7 @@ Both rails work without internet. Both are usable today on any Indian SIM with a
 
 **Flowpay uses no accessibility service** — it cannot read your screen or any other app. It never sees your UPI PIN, which is entered directly into your bank's IVR/dialer flow; the app only triggers the dialer and reads bank-confirmation SMS locally on the device.
 
-## Prerequisites
+## Prerequisites --
 
 To actually run a transaction end-to-end you need:
 
